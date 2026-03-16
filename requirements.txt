@@ -1,4 +1,5 @@
-groq
 streamlit
+groq
 python-dotenv
-fpdf
+matplotlib
+reportlab
