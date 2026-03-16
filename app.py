@@ -31,7 +31,7 @@ if "dark_mode" not in st.session_state:
 if st.session_state["dark_mode"]:
     BG         = "#0f1117"
     SURFACE    = "#1e2130"
-    TEXT       = "#e8eaf0"
+    TEXT       = "#f0f0e8"
     SUBTEXT    = "#9ca3af"
     BORDER     = "#2e3347"
     CARD_BG    = "#1e2130"
